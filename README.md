@@ -1,5 +1,5 @@
-# **Hello**
-### Hi there 👋
+
+# **Hi there** 👋
 ### I'm Shaik Abdul Wahid
 ### I'm a student
 ### I'm currently learning DSA,PYTHON,R
