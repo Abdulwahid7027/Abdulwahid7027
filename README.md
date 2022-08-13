@@ -1,4 +1,3 @@
-![Hello]("C:\Users\skmdw\Downloads\print-142507206.jpg")
 ### Hi there 👋
 ### I'm Shaik Abdul Wahid
 ### I'm a student
