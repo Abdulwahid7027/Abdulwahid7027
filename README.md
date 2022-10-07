@@ -4,7 +4,7 @@
 
 #### Learner • Python • C • R • Dsa • Data science • passionate about coding • Learning in Public 
 
-#### Skills: Python,R,C
+#### Skills: Python,c language,R
 
 - 🌱 I’m currently learning  Dsa
 - 😄 Pronouns: He/Him 
