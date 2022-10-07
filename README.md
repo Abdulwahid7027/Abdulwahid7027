@@ -1,9 +1,11 @@
 
-# **Hi there** 👋
-### I'm Shaik Abdul Wahid
-### I'm a student
-### I'm currently learning DSA,PYTHON,R
+#### Learner
+<img align="right" alt="coding" width="400" src="https://www.careerguide.com/career/wp-content/uploads/2021/08/Full-Stack-Developer-1.gif">
+Learner • Python • Dsa • Data science
+passionate about coding • Learning in Public •
 
+Skills: Python,R
 
-##### Gmail : haseena7027@gmail.com
-##### Twitter : [@Abdulwahid7027](https://twitter.com/Abdulwahid7027)
+- 🌱 I’m currently learning  Dsa
+- 😄 Pronouns: He/Him 
+- 📧 Contact me : haseena7027@gmail.com
