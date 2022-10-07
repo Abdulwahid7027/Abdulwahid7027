@@ -9,3 +9,5 @@
 - 🌱 I’m currently learning  Dsa
 - 😄 Pronouns: He/Him 
 - 📧 Contact me : haseena7027@gmail.com
+
+## 🌐 Socials: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdulwahid7027) 
