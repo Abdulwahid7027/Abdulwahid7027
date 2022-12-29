@@ -13,7 +13,3 @@
 - 📧 Contact me : haseena7027@gmail.com
 
 ## 🌐 Socials: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdulwahid7027) 
-
-## Holopin badges
-
-[![An image of @abdulwahid7027's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/abdulwahid7027)](https://holopin.io/@abdulwahid7027)
