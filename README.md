@@ -5,11 +5,9 @@
 📍 Martur, Andhra Pradesh, India  
 📧 **abdulwahid.shaik147@gmail.com**  
 
----
 
 ### 💡 Learner • Frontend Developer • Data Science/Machine Learning Enthusiast  
 
----
 
 ### ⚙️ Technical Skills  
 
@@ -53,8 +51,6 @@ to predict insurance costs accurately with advanced ensemble techniques.
 #### 📚 Book Recommendation System  
 Deployed an ML-based Book Recommender using **Streamlit**.  
 🔗 [Live App](https://book-recommendation-system-gffgapsbqfrrgcezvtu9mw.streamlit.app/)
-
----
 
 
 ---
