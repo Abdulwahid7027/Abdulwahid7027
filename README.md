@@ -1,14 +1,76 @@
+## 👨‍💻 Shaik Abdul Wahid
 
-## Shaik Abdul Wahid
+<img align="right" alt="coding" width="420" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<img align="right" alt="coding" width="500" src="https://camo.githubusercontent.com/e4a569755580f96dce0e6d65bc761e0d9aef0fecae524ec73a1b0be60fc934fa/68747470733a2f2f7777772e6d79676f2e67652f75706c6f6164732f626c6f672f313538343032333739352e6a7067">
+📍 Martur, Andhra Pradesh, India  
+📧 **abdulwahid.shaik147@gmail.com**  
 
-#### Learner • Frontend developer • UI/UX Designer • Open Source Enthusiast
+---
 
-#### Techstack: [![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white)]()  [![HTML](https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white)]() ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+### 💡 Learner • Frontend Developer • Data Science/Machine Learning Enthusiast  
 
-- 🌱 I’m currently learning frontend development
-- 😄 Pronouns: He/Him 
-- 📧 Contact me : haseena7027@gmail.com
+---
 
-## 🌐 Socials: [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Abdulwahid7027) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahid-shaik-611893259/)
+### ⚙️ Technical Skills  
+
+#### 💻 **Programming Languages**
+- Python 🐍
+- C
+- JavaScript  
+
+#### 🌐 **Web Technologies**
+- HTML, CSS, ReactJS, Bootstrap, Tailwind
+- UI/UX Design (Figma, Prototyping, Wireframing)
+
+#### 📊 **Data Science & Analytics**
+- NumPy, Pandas, Scikit-learn, SQL  
+- Tableau (Data Visualization)
+
+#### 🧪 **Testing & Tools**
+- Manual Testing, API Testing (Postman)
+- Git, GitHub, VS Code, JIRA
+
+---
+
+### 🌱 Currently Exploring
+- Frontend projects with React & Bootstrap  
+- AI-driven UI/UX tools  
+- Machine Learning model deployment using Streamlit  
+- Open Source contributions  
+
+---
+
+### 🚀 Projects
+
+#### 🫀 Heart Disease Prediction  
+Built using Python, Pandas, NumPy, and Random Forest.  
+Achieved **98% accuracy** in predicting heart disease risk.  
+
+#### 💰 Medical Cost Insurance Prediction  
+Developed hybrid regression models using **XGBoost, LightGBM, and CatBoost**  
+to predict insurance costs accurately with advanced ensemble techniques.  
+
+#### 📚 Book Recommendation System  
+Deployed an ML-based Book Recommender using **Streamlit**.  
+🔗 [Live App](https://book-recommendation-system-gffgapsbqfrrgcezvtu9mw.streamlit.app/)
+
+---
+
+
+---
+
+### 🌐 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-wahid-shaik-611893259/)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/Abdulwahid7027)  
+
+---
+
+### 😄 About Me  
+- 🌱 I love building modern, data-driven web apps.  
+- 💬 Interested in **AI, Frontend, and UX Design**.  
+- 🎯 Goal: Become a versatile Software Engineer blending design + AI.  
+- 🧠 Believer in “Learn • Build • Share”.  
+
+---
+
+⭐ **_“Code. Create. Contribute.”_**
